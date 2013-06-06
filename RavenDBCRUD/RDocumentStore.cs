@@ -1,10 +1,6 @@
 ﻿using Raven.Client;
-using Raven.Client.Document;
 using Raven.Client.Embedded;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
 namespace RavenDBCRUD
 {

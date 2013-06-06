@@ -1,7 +1,6 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using RavenDBCRUD;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Raven.Client;
+using RavenDBCRUD;
 using System.Linq;
 
 namespace RavenDBCrudTests

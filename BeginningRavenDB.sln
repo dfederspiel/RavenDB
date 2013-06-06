@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenDBPart1", "RavenDBCRUD\RavenDBPart1.csproj", "{8B33B61B-85C7-4B03-A766-958E26589ADA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeginningRavenDBPart1", "RavenDBCRUD\BeginningRavenDBPart1.csproj", "{8B33B61B-85C7-4B03-A766-958E26589ADA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenDBPart1Tests", "RavenDBCrudTests\RavenDBPart1Tests.csproj", "{435CC63A-DE86-4400-99F1-A840BAE853FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeginningRavenDBPart1Tests", "RavenDBCrudTests\BeginningRavenDBPart1Tests.csproj", "{435CC63A-DE86-4400-99F1-A840BAE853FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

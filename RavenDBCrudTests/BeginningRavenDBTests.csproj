@@ -61,9 +61,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RavenDBCRUD\BeginningRavenDBPart1.csproj">
+    <ProjectReference Include="..\RavenDBCRUD\BeginningRavenDB.csproj">
       <Project>{8b33b61b-85c7-4b03-a766-958e26589ada}</Project>
-      <Name>BeginningRavenDBPart1</Name>
+      <Name>BeginningRavenDB</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

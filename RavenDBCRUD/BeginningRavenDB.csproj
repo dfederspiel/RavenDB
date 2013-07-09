@@ -74,6 +74,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contact.cs" />
+    <Compile Include="RDataController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RDocumentStore.cs" />
   </ItemGroup>
